@@ -2,5 +2,5 @@
 
 Temas del after:
 
-* Herramientas: Visual studio code, extensiones, DevTools de browser
-* Dudas de la clase 2
+* Herramientas: Visual studio code, extensiones, DevTools de browser, Postman
+* Dudas de la clase 2 -> No hubo dudas
