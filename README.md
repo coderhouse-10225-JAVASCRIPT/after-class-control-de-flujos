@@ -1,5 +1,7 @@
 # after-class-control-de-flujos
 
+### Repositorio Archivado (read-only).
+
 Temas del after:
 
 * Herramientas: Visual studio code, extensiones, DevTools de browser, Postman
